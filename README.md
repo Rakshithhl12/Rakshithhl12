@@ -21,8 +21,14 @@ Here you’ll find a collection of my **LeetCode solutions**, **data projects**,
 ## 🧩 LeetCode & GitHub Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rakshith%20HL?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshithhl12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="420" />
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/Rakshith%20HL/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Rakshith%20HL?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="420" />
+  </a>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Rakshithhl12" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rakshithhl12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="420" />
+  </a>
 </p>
 
 ---
@@ -66,11 +72,14 @@ Here you’ll find a collection of my **LeetCode solutions**, **data projects**,
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithhl12&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rakshithhl12's Contribution Graph" />
-
-  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Rakshithhl12" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithhl12&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  </a>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshithhl12&theme=dark&hide_border=true" alt="Rakshithhl12's Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Rakshithhl12" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshithhl12&theme=dark&hide_border=true" alt="Streak Stats" />
+  </a>
 </p>
 
 ---
@@ -98,3 +107,4 @@ Here you’ll find a collection of my **LeetCode solutions**, **data projects**,
 ---
 
 ⭐ *If you like my projects or find them useful, please star the repository and follow for updates!* ⭐
+

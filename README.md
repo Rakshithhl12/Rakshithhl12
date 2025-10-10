@@ -7,7 +7,7 @@
   <a href="mailto:hlrakshith41@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rakshith-hl" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/Rakshithhl12" target="_blank">💻 GitHub</a> •
-  <a href="https://leetcode.com/RakshithhHL" target="_blank">🔥 LeetCode</a>
+  <a href="https://leetcode.com/u/RakshitthHL/" target="_blank">🔥 LeetCode</a>
 </p>
 
 ---

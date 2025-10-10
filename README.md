@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/rakshith-hl" target="_blank">Rakshith HL</a> 👋</h1>
 
 <p align="center">
-  <b>📊 Aspiring Data Scientist | Machine Learning Enthusiast | Developer</b><br>
+  <b>📊 Aspiring Data Scientist | Machine Learning Enthusiast | Full-Stack Developer</b><br>
   <br>
   <a href="mailto:hlrakshith41@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/rakshith-hl" target="_blank">💼 LinkedIn</a> •
@@ -13,9 +13,9 @@
 ---
 
 ## 🧠 Objective  
-Aspiring **Data Scientist** passionate about solving real-world problems through **data analysis, machine learning, and AI**.  
-Skilled in **building predictive models**, **data visualization**, and **end-to-end project development**.  
-Seeking opportunities to apply analytical and technical expertise while continuously learning and growing in the field of **Data Science**.
+Aspiring **Data Scientist & Full-Stack Developer** passionate about solving real-world problems through **data analysis, machine learning, AI**, and **web development**.  
+Skilled in **building predictive models**, **interactive dashboards**, **data visualization**, and **end-to-end project development**.  
+Always learning and applying **innovative solutions** for impactful results.
 
 ---
 
@@ -42,6 +42,12 @@ Linear / Logistic Regression • KNN • K-Means • Hierarchical Clustering •
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+**Web Development (MERN Stack):**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 **Data Visualization:**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3F7FBF?style=for-the-badge)
@@ -57,24 +63,24 @@ Linear / Logistic Regression • KNN • K-Means • Hierarchical Clustering •
 ## 🚀 Projects  
 
 ### 🔹 Credit Card Fraud Detection  
-- Built an ML model using Scikit-learn for fraud detection.  
-- Applied **data preprocessing, feature engineering**, and **imbalance handling** to improve accuracy.
+- ML model using **Scikit-learn** for fraud detection.  
+- **Data preprocessing, feature engineering**, and **imbalance handling** for better accuracy.
 
 ### 🔹 Construction Management System  
-- Developed a **Flask-based dashboard** for inventory, worker, and document management.  
-- Integrated **SQL database** for efficient storage and retrieval.
+- **Flask-based dashboard** for inventory, worker, and document management.  
+- Integrated **SQL database** for storage and retrieval.
 
 ### 🔹 Predictive Management System  
-- Designed a **predictive analytics** solution to forecast trends and improve decision-making.  
-- Applied **ML models** for data-driven management insights.
+- Predictive analytics to **forecast trends** and improve decision-making.  
+- Applied **ML models** for data-driven insights.
 
 ### 🔹 Movies Recommendation System  
-- Built a recommendation engine using **collaborative filtering and content-based** approaches.  
-- Improved personalization using **user similarity metrics**.
+- **Recommendation engine** using collaborative filtering and content-based approaches.  
+- Enhanced personalization using **user similarity metrics**.
 
 ### 🔹 AI Career Guidance System  
-- Developed an **AI-based system** to recommend career paths based on skills and interests.  
-- Used **ML/NLP** techniques to provide personalized suggestions.
+- **AI system** recommending career paths based on skills and interests.  
+- Used **ML/NLP techniques** for personalized suggestions.
 
 ---
 
@@ -87,8 +93,8 @@ Linear / Logistic Regression • KNN • K-Means • Hierarchical Clustering •
 ---
 
 ## 🏆 Achievements  
-- Participated in Hackathons: **BNMIT (Aug 2024)**, **MAHE (Apr 2025)**  
-  > Gained hands-on experience in **problem-solving, teamwork, and rapid prototyping.**
+- Hackathons: **BNMIT (Aug 2024), MAHE (Apr 2025)**  
+  > Gained hands-on experience in **problem-solving, teamwork, and rapid prototyping**.
 
 ---
 
@@ -122,12 +128,9 @@ Linear / Logistic Regression • KNN • K-Means • Hierarchical Clustering •
   <a href="mailto:hlrakshith41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rakshith-hl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Rakshithhl12"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/Rakshith_HL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/RakshitthHL/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-⭐ *"Data tells stories — I love decoding them through analytics and AI."*  
-
-
-
+⭐ *"Data tells stories — I love decoding them through analytics, AI, and full-stack development."*  

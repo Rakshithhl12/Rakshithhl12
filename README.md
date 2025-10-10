@@ -104,7 +104,7 @@ Linear / Logistic Regression • KNN • K-Means • Hierarchical Clustering •
 ## 💻 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rakshith HL?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/RakshitthHL?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---

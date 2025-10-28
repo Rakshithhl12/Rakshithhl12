@@ -26,7 +26,7 @@ Always learning and applying **innovative solutions** for impactful results.
 
 ---
 
-## 💡 Skills  
+## 💡 Skills 
 
 **Programming & Data Handling:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

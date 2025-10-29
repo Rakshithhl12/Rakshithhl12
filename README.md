@@ -20,7 +20,7 @@ Always learning and applying **innovative solutions** for impactful results.
 ---
 
 ## 🎓 Education  
-- **B.E. in Computer Science** – Kalpataru Institute of Technology, Tiptur (2026)  
+- **B.E. in Computer Science** – Kalpataru Institute of Technology, Tiptur (2026)
 - **II PUC** – SS PU College, Tiptur (2022)  
 - **SSLC** – SVP High School, Tiptur (2020) 
 
